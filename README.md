@@ -18,3 +18,15 @@ If you are a __techie__ and know how to scrape data from websites, I need to lea
 I would also take some assistance from __UX research and UX design__ folks who want to help me improve how people use the tool.  
 
 And possibly some __design folks__ who want to make the tool pretty.
+
+## Find out more
+
+We are using the [Mozilla Contributers' Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+
+And here is my [roadmap](https://github.com/lesliePhD/open_funders_canada/blob/master/roadmap.md).
+
+I'm new to github and learning the ropes.  Will be adding more to this as I go.  Any notes for improvement or things you want to know about the project, do not hesitate to contact me.  
+
+## Contact
+
+You can make issues or comments on github if you wish, or you can reach me on [twitter](https://twitter.com/lesliePhD).  

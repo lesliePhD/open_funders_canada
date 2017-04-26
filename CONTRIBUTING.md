@@ -14,7 +14,7 @@ Landscape (http://landscape.ajah.ca/) is a pilot project for an open tool that h
 I work for a nonprofit called __Powered by Data__ (http://poweredbydata.org) and we are particularly interested in open funding data for the social sector.  Landscape is meant to be a user-friendly tool for low capacity users to easily search what kind of funding is happening in their spaces of interest (geographical, issue related, ect).  The tool intends to make the work of nonprofits and their funders more efficient.  Landscape will __help identify overlap and points of collaboration, gaps in services, as well as previously undiscovered funders or fundees__.  Academics may also be interested in this tool for the purposes of research.  Because Landscape also publishes open data, it then creates the conditions to enable social innovation in the grantmaking sector.    
 
 ## Contributing Guidelines
-Here you can find the guildelines for contributing to Landscape (Open Funders Canada): [Mozilla Contributers' Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).  These are guielines, not rules.  They should make it easy for anyone to participate in the project.  
+Here you can find the code of conduct for contributing to Landscape (Open Funders Canada): [Mozilla Contributers' Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).  These are guielines, not rules.  They should make it easy for anyone to participate in the project.  
 
 ## What kind of Contributions?
 I am looking to gain valuable feedback from users in order to improve our pilot. I am also seeking additional contributors to help populate Landscape by data scraping grantmaking data from funders sites (governmental, foundations, or corporate).

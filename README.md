@@ -29,4 +29,4 @@ I'm new to github and learning the ropes.  Will be adding more to this as I go. 
 
 ## Contact
 
-You can make issues or comments on github if you wish, or you can reach me on [twitter](https://twitter.com/lesliePhD).  
+If you want to contribute, you can look at the [CONTRIBUTING](https://github.com/lesliePhD/open_funders_canada/blob/master/CONTRIBUTING.md) file or comment [here](https://github.com/lesliePhD/open_funders_canada/issues/6). Otherwise, you can reach me directly on [twitter](https://twitter.com/lesliePhD).  

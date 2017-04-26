@@ -21,7 +21,7 @@ And possibly some __design folks__ who want to make the tool pretty.
 
 ## Find out more
 
-We are using the [Mozilla Contributers' Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+We are using the [Mozilla Contributers' Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) as our code of conduct.  
 
 And here is my [roadmap](https://github.com/lesliePhD/open_funders_canada/blob/master/roadmap.md).
 

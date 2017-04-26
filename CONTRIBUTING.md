@@ -33,3 +33,6 @@ And possibly some __design__ folks who want to make the tool pretty.
 
 ## Global Sprint 2017!
 We are participating in the [Global Sprint in June](https://mozilla.github.io/global-sprint/)! Come join us from 9-5 EST.  Looking to see if a physical Montreal team will be formed.  
+
+## Contact
+If you are interested in contributing, or know of something I should be thinking about, comment [here](https://github.com/lesliePhD/open_funders_canada/issues/6).

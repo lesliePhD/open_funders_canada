@@ -25,7 +25,7 @@ What kind of grantmaking information are you looking for? (ie. what are you tryi
 What other funders would you like to see?
 What fields do you (or would you) find useful to be able to search by?
 
-If you are a __techie__ and know how to scrape data from websites, I need to learn how to do this. Extra bonus points if you are able to teach me to do it myself.
+If you are a __techie__ and know how to scrape data from websites, I need to learn how to do this. Extra bonus points if you are able to teach me to do it myself.  I have [posted some guidance](https://github.com/lesliePhD/open_funders_canada/issues/4) on what kind of websites to scrape and what fields to scrape.  If you have more questions, you can contact me there.  
 
 I would also take some assistance from __UX research and UX design__ folks who want to help me improve how people use the tool.
 
